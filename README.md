@@ -1,5 +1,7 @@
 # CodeWarsSolutions
 
+<a href="https://www.codewars.com/users/aphar.magaramova"><img src="https://www.codewars.com/users/aphar.magaramova/badges/micro" alt="codewars"></a>
+
 ### 4 kyu questions:
 1. <a href="https://github.com/ApharMagaramova/CodeWarsSolutions/blob/main/src/kyu4/StripComments.java"><b>Strip Comments</b></a>
 
