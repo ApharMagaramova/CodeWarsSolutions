@@ -17,3 +17,7 @@
 4. <a href="https://github.com/ApharMagaramova/CodeWarsSolutions/blob/main/src/kyu6/SpinWords.java"><b>Stop gninnipS My sdroW!</b></a>
 5. <a href="https://github.com/ApharMagaramova/CodeWarsSolutions/blob/main/src/kyu6/SumOfParts.java"><b>Sums of Parts</b></a>
 6. <a href="https://github.com/ApharMagaramova/CodeWarsSolutions/blob/main/src/kyu6/WhoLikesIt.java"><b>Who likes it?</b></a>
+
+### 7 kyu questions:
+1. <a href="https://github.com/ApharMagaramova/CodeWarsSolutions/blob/main/src/kyu7/NumberFun.java"><b>Find the next perfect square!</b></a>
+2. <a href="https://github.com/ApharMagaramova/CodeWarsSolutions/blob/main/src/kyu7/VowelCount.java"><b>Vowel Count</b></a>
