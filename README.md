@@ -1,4 +1,4 @@
-# CodeWarsSolutions
+# Codewars Java
 
 <a href="https://www.codewars.com/users/aphar.magaramova"><img src="https://www.codewars.com/users/aphar.magaramova/badges/micro" alt="codewars"></a>
 
