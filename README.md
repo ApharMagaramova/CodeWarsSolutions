@@ -12,6 +12,7 @@
 3. <a href="https://github.com/ApharMagaramova/CodeWarsSolutions/blob/main/src/kyu5/Zeros.java"><b>Number of trailing zeros of N!</b></a>
 4. <a href="https://github.com/ApharMagaramova/CodeWarsSolutions/blob/main/src/kyu5/ValidParentheses.java"><b>Valid Parentheses</b></a>
 5. <a href="https://github.com/ApharMagaramova/codewars-java/blob/main/src/kyu5/SecureTester.java"><b>Secure Tester</b><a>
+6. <a href="https://github.com/ApharMagaramova/codewars-java/blob/main/src/kyu5/Greed.java"><b>Greed is God</b><a>
 
 ### 6 kyu katas:
 1. <a href="https://github.com/ApharMagaramova/CodeWarsSolutions/blob/main/src/kyu6/CamelCase.java"><b>Break camelCase</b></a>
